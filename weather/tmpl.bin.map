@@ -1,0 +1,906 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+                              D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o (__libc_csu_init)
+
+Discarded input sections
+
+ .reginfo       0x0000000000000000       0x18 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+ .reginfo       0x0000000000000000       0x18 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+ .reginfo       0x0000000000000000       0x18 obj_err/debug.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 obj_err/debug.o
+ .reginfo       0x0000000000000000       0x18 obj_err/main.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 obj_err/main.o
+ .reginfo       0x0000000000000000       0x18 obj_err/mqtt.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 obj_err/mqtt.o
+ .reginfo       0x0000000000000000       0x18 obj_err/vkeyboard.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 obj_err/vkeyboard.o
+ .reginfo       0x0000000000000000       0x18 obj_err/weather.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 obj_err/weather.o
+ .reginfo       0x0000000000000000       0x18 obj_err/wifi.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 obj_err/wifi.o
+ .reginfo       0x0000000000000000       0x18 obj_err/cJSON.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 obj_err/cJSON.o
+ .reginfo       0x0000000000000000       0x18 obj_err/cJSON_Utils.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 obj_err/cJSON_Utils.o
+ .reginfo       0x0000000000000000       0x18 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .MIPS.abiflags
+                0x0000000000000000       0x18 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .reginfo       0x0000000000000000       0x18 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtend.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtend.o
+ .reginfo       0x0000000000000000       0x18 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+LOAD obj_err/debug.o
+LOAD obj_err/main.o
+LOAD obj_err/mqtt.o
+LOAD obj_err/vkeyboard.o
+LOAD obj_err/weather.o
+LOAD obj_err/wifi.o
+LOAD obj_err/cJSON.o
+LOAD obj_err/cJSON_Utils.o
+LOAD D:\iPaylabSDK\api\1.0.0\LIB/libsdk.so
+LOAD D:\iPaylabSDK\api\1.0.0\syslib/libfreetype.so
+LOAD D:\iPaylabSDK\api\1.0.0\syslib/libpng16.so
+LOAD D:\iPaylabSDK\api\1.0.0\syslib/libturbojpeg.so
+LOAD D:\iPaylabSDK\api\1.0.0\syslib/libjpeg.so
+LOAD D:\iPaylabSDK\api\1.0.0\syslib/libz.so
+LOAD D:\iPaylabSDK\api\1.0.0\syslib/libcjson.so
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/libpthread.so
+LOAD D:\iPaylabSDK\api\1.0.0\syslib/libsqlite3.so
+LOAD D:\iPaylabSDK\api\1.0.0\syslib/libCUDW.so
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/libm.so
+LOAD D:\iPaylabSDK\api\1.0.0\syslib/libcurl.so
+LOAD D:/xhh/1/tmpl/weather/lib/libmosquitto.so
+LOAD D:\iPaylabSDK\api\1.0.0\syslib/libssl.so
+LOAD D:\iPaylabSDK\api\1.0.0\syslib/libcrypto.so
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0\libgcc.a
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/../../../../mips-linux-gnu/lib/libgcc_s.so
+START GROUP
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/../../../../mips-linux-gnu/lib\libgcc_s.so.1
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0\libgcc.a
+END GROUP
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/libc.so
+START GROUP
+LOAD D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/lib/libc.so.6
+LOAD D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a
+LOAD D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/lib/ld.so.1
+END GROUP
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0\libgcc.a
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/../../../../mips-linux-gnu/lib/libgcc_s.so
+START GROUP
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/../../../../mips-linux-gnu/lib\libgcc_s.so.1
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0\libgcc.a
+END GROUP
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtend.o
+LOAD D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+                [!provide]                        PROVIDE (__executable_start, 0x400000)
+                0x0000000000400154                . = (0x400000 + SIZEOF_HEADERS)
+
+.interp         0x0000000000400154        0xd
+ *(.interp)
+ .interp        0x0000000000400154        0xd D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+
+.note.ABI-tag   0x0000000000400164       0x20
+ .note.ABI-tag  0x0000000000400164       0x20 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+
+.MIPS.abiflags  0x0000000000400188       0x18
+ *(.MIPS.abiflags)
+ .MIPS.abiflags
+                0x0000000000400188       0x18 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+
+.reginfo        0x00000000004001a0       0x18
+ *(.reginfo)
+ .reginfo       0x00000000004001a0       0x18 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.dynamic        0x00000000004001b8      0x198
+ *(.dynamic)
+ .dynamic       0x00000000004001b8      0x198 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+                0x00000000004001b8                _DYNAMIC
+
+.hash           0x0000000000400350      0x6f8
+ *(.hash)
+ .hash          0x0000000000400350      0x6f8 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x0000000000400a48      0xf70
+ *(.dynsym)
+ .dynsym        0x0000000000400a48      0xf70 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+
+.dynstr         0x00000000004019b8     0x10cd
+ *(.dynstr)
+ .dynstr        0x00000000004019b8     0x10cd D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+
+.gnu.version    0x0000000000402a86      0x1ee
+ *(.gnu.version)
+ .gnu.version   0x0000000000402a86      0x1ee D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+
+.gnu.version_d  0x0000000000402c74        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000402c74        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+
+.gnu.version_r  0x0000000000402c74       0xa0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000402c74       0xa0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+
+.rel.dyn        0x0000000000402d14        0x0
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ *(.rel.dyn)
+ .rel.dyn       0x0000000000402d14        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x0000000000402d14        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+                [!provide]                        PROVIDE (__rel_iplt_start, .)
+ *(.rel.iplt)
+                [!provide]                        PROVIDE (__rel_iplt_end, .)
+
+.rela.dyn       0x0000000000402d14        0x0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+                [!provide]                        PROVIDE (__rela_iplt_start, .)
+ *(.rela.iplt)
+                [!provide]                        PROVIDE (__rela_iplt_end, .)
+
+.rel.plt        0x0000000000402d14      0x320
+ *(.rel.plt)
+ .rel.plt       0x0000000000402d14      0x320 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x0000000000403034       0x3c
+ *(SORT(.init))
+ .init          0x0000000000403034       0x30 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+                0x0000000000403034                _init
+ .init          0x0000000000403064        0xc D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+
+.text           0x0000000000403070     0xdcd0
+                0x0000000000403070                _ftext = .
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000403070       0x60 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+                0x0000000000403070                __start
+ .text          0x00000000004030d0        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+ .text          0x00000000004030d0       0xc0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+ .text          0x0000000000403190      0x880 obj_err/debug.o
+                0x0000000000403190                DebugIncCount
+                0x00000000004032b8                DebugClearCount
+                0x00000000004032f4                setDebugMode
+                0x0000000000403328                DebugPrintf
+                0x0000000000403498                DebugMemory
+                0x0000000000403718                DebugCmd
+                0x0000000000403740                DebugSystemCmd
+                0x0000000000403864                DebugFileSizeCheck
+                0x0000000000403944                DebugRamInfo
+                0x0000000000403968                GetFreeRam
+ .text          0x0000000000403a10      0x610 obj_err/main.o
+                0x0000000000403f5c                main
+ .text          0x0000000000404020      0x460 obj_err/mqtt.o
+                0x0000000000404020                MQTT_Init
+                0x00000000004041ec                MQTT_Free
+                0x0000000000404234                on_connect
+                0x00000000004042b0                on_disconnect
+                0x0000000000404320                on_error
+                0x000000000040436c                on_message
+ .text          0x0000000000404480      0xe20 obj_err/vkeyboard.o
+                0x0000000000404480                KeyBoardDraw
+                0x0000000000404724                KeyBoardInput
+                0x00000000004050e0                KeyBoardInputFeedback
+                0x000000000040522c                KeyBoardGetCode
+ .text          0x00000000004052a0     0x1010 obj_err/weather.o
+                0x00000000004056d8                DrawSun
+                0x0000000000405a2c                CheckSunClick
+                0x0000000000405aa4                DrawCloud
+                0x0000000000405b74                weather_curl_write_cb
+                0x0000000000405c00                Weather_Interface
+ .text          0x00000000004062b0      0xa90 obj_err/wifi.o
+                0x00000000004062b0                WiFiMenuCreate
+                0x0000000000406774                WiFiConnect
+                0x0000000000406a74                WiFiGetMetaList
+                0x0000000000406a9c                WiFiMenuFlow
+                0x0000000000406c70                DisPlayMessage
+ .text          0x0000000000406d40     0x6dc0 obj_err/cJSON.o
+                0x0000000000406d40                cJSON_GetErrorPtr
+                0x0000000000406d78                cJSON_GetStringValue
+                0x0000000000406dcc                cJSON_GetNumberValue
+                0x0000000000406e24                cJSON_Version
+                0x000000000040703c                cJSON_InitHooks
+                0x00000000004071d4                cJSON_Delete
+                0x00000000004075b0                cJSON_SetNumberHelper
+                0x0000000000407660                cJSON_SetValuestring
+                0x0000000000408eb4                cJSON_ParseWithOpts
+                0x0000000000408f2c                cJSON_ParseWithLengthOpts
+                0x0000000000409174                cJSON_Parse
+                0x00000000004091b4                cJSON_ParseWithLength
+                0x0000000000409430                cJSON_Print
+                0x0000000000409474                cJSON_PrintUnformatted
+                0x00000000004094b8                cJSON_PrintBuffered
+                0x00000000004095e8                cJSON_PrintPreallocated
+                0x000000000040abdc                cJSON_GetArraySize
+                0x000000000040ace8                cJSON_GetArrayItem
+                0x000000000040ae74                cJSON_GetObjectItem
+                0x000000000040aeb8                cJSON_GetObjectItemCaseSensitive
+                0x000000000040aefc                cJSON_HasObjectItem
+                0x000000000040b12c                cJSON_AddItemToArray
+                0x000000000040b2f4                cJSON_AddItemToObject
+                0x000000000040b348                cJSON_AddItemToObjectCS
+                0x000000000040b3a0                cJSON_AddItemReferenceToArray
+                0x000000000040b40c                cJSON_AddItemReferenceToObject
+                0x000000000040b49c                cJSON_AddNullToObject
+                0x000000000040b51c                cJSON_AddTrueToObject
+                0x000000000040b59c                cJSON_AddFalseToObject
+                0x000000000040b61c                cJSON_AddBoolToObject
+                0x000000000040b6a4                cJSON_AddNumberToObject
+                0x000000000040b730                cJSON_AddStringToObject
+                0x000000000040b7b8                cJSON_AddRawToObject
+                0x000000000040b840                cJSON_AddObjectToObject
+                0x000000000040b8c0                cJSON_AddArrayToObject
+                0x000000000040b940                cJSON_DetachItemViaPointer
+                0x000000000040ba3c                cJSON_DetachItemFromArray
+                0x000000000040baa8                cJSON_DeleteItemFromArray
+                0x000000000040baf8                cJSON_DetachItemFromObject
+                0x000000000040bb4c                cJSON_DetachItemFromObjectCaseSensitive
+                0x000000000040bba0                cJSON_DeleteItemFromObject
+                0x000000000040bbf0                cJSON_DeleteItemFromObjectCaseSensitive
+                0x000000000040bc40                cJSON_InsertItemInArray
+                0x000000000040bd30                cJSON_ReplaceItemViaPointer
+                0x000000000040bea0                cJSON_ReplaceItemInArray
+                0x000000000040c024                cJSON_ReplaceItemInObject
+                0x000000000040c070                cJSON_ReplaceItemInObjectCaseSensitive
+                0x000000000040c0bc                cJSON_CreateNull
+                0x000000000040c114                cJSON_CreateTrue
+                0x000000000040c16c                cJSON_CreateFalse
+                0x000000000040c1c4                cJSON_CreateBool
+                0x000000000040c238                cJSON_CreateNumber
+                0x000000000040c310                cJSON_CreateString
+                0x000000000040c3b4                cJSON_CreateStringReference
+                0x000000000040c428                cJSON_CreateObjectReference
+                0x000000000040c49c                cJSON_CreateArrayReference
+                0x000000000040c510                cJSON_CreateRaw
+                0x000000000040c5b4                cJSON_CreateArray
+                0x000000000040c60c                cJSON_CreateObject
+                0x000000000040c664                cJSON_CreateIntArray
+                0x000000000040c7c4                cJSON_CreateFloatArray
+                0x000000000040c920                cJSON_CreateDoubleArray
+                0x000000000040ca78                cJSON_CreateStringArray
+                0x000000000040cbd0                cJSON_Duplicate
+                0x000000000040d140                cJSON_Minify
+                0x000000000040d2a4                cJSON_IsInvalid
+                0x000000000040d2f4                cJSON_IsFalse
+                0x000000000040d348                cJSON_IsTrue
+                0x000000000040d39c                cJSON_IsBool
+                0x000000000040d3ec                cJSON_IsNull
+                0x000000000040d440                cJSON_IsNumber
+                0x000000000040d494                cJSON_IsString
+                0x000000000040d4e8                cJSON_IsArray
+                0x000000000040d53c                cJSON_IsObject
+                0x000000000040d590                cJSON_IsRaw
+                0x000000000040d5e4                cJSON_Compare
+                0x000000000040da70                cJSON_malloc
+                0x000000000040dab4                cJSON_free
+ .text          0x000000000040db00     0x3190 obj_err/cJSON_Utils.o
+                0x000000000040e130                cJSONUtils_FindPointerFromObjectTo
+                0x000000000040e698                cJSONUtils_GetPointer
+                0x000000000040e6dc                cJSONUtils_GetPointerCaseSensitive
+                0x000000000040fc50                cJSONUtils_ApplyPatches
+                0x000000000040fd14                cJSONUtils_ApplyPatchesCaseSensitive
+                0x000000000040ffb0                cJSONUtils_AddPatchToArray
+                0x0000000000410584                cJSONUtils_GeneratePatches
+                0x000000000041060c                cJSONUtils_GeneratePatchesCaseSensitive
+                0x0000000000410698                cJSONUtils_SortObject
+                0x00000000004106d8                cJSONUtils_SortObjectCaseSensitive
+                0x00000000004108f0                cJSONUtils_MergePatch
+                0x0000000000410934                cJSONUtils_MergePatchCaseSensitive
+                0x0000000000410c08                cJSONUtils_GenerateMergePatch
+                0x0000000000410c4c                cJSONUtils_GenerateMergePatchCaseSensitive
+ .text          0x0000000000410c90       0xb0 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+                0x0000000000410c90                __libc_csu_init
+                0x0000000000410d34                __libc_csu_fini
+ .text          0x0000000000410d40        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtend.o
+ .text          0x0000000000410d40        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+ *(.gnu.warning)
+ *(.mips16.fn.*)
+ *(.mips16.call.*)
+
+.MIPS.stubs     0x0000000000410d40        0x0
+ .MIPS.stubs    0x0000000000410d40        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+
+.fini           0x0000000000410d40       0x24
+ *(SORT(.fini))
+ .fini          0x0000000000410d40       0x18 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+                0x0000000000410d40                _fini
+ .fini          0x0000000000410d58        0xc D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+                [!provide]                        PROVIDE (__etext, .)
+                [!provide]                        PROVIDE (_etext, .)
+                [!provide]                        PROVIDE (etext, .)
+
+.rodata         0x0000000000410d70      0xaa0
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x0000000000410d70        0x4 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+                0x0000000000410d70                _IO_stdin_used
+ *fill*         0x0000000000410d74        0xc 
+ .rodata        0x0000000000410d80       0xc0 obj_err/debug.o
+ .rodata        0x0000000000410e40       0x40 obj_err/main.o
+ .rodata        0x0000000000410e80      0x190 obj_err/mqtt.o
+ .rodata        0x0000000000411010       0xc0 obj_err/vkeyboard.o
+ .rodata        0x00000000004110d0      0x230 obj_err/weather.o
+ .rodata        0x0000000000411300      0x120 obj_err/wifi.o
+ .rodata        0x0000000000411420      0x350 obj_err/cJSON.o
+ .rodata        0x0000000000411770       0xa0 obj_err/cJSON_Utils.o
+
+.rodata1
+ *(.rodata1)
+
+.sdata2
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+
+.sbss2
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0000000000411810        0x4
+ *(.eh_frame)
+ .eh_frame      0x0000000000411810        0x4 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtend.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.plt            0x0000000000411820      0x660
+ *(.plt)
+ *fill*         0x0000000000411820        0x0 
+ .plt           0x0000000000411820      0x660 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+                0x0000000000411820                _PROCEDURE_LINKAGE_TABLE_
+                0x0000000000411840                mosquitto_reconnect@@MOSQ_1.0
+                0x0000000000411850                curl_easy_perform
+                0x0000000000411860                TfxGetCurrentDatetime@@sdk_1.0
+                0x0000000000411870                strcat@@GLIBC_2.0
+                0x0000000000411880                mosquitto_loop@@MOSQ_1.0
+                0x0000000000411890                sysinfo@@GLIBC_2.0
+                0x00000000004118a0                TfxIsWiFiUp@@sdk_1.0
+                0x00000000004118b0                mosquitto_connect_callback_set@@MOSQ_1.0
+                0x00000000004118c0                curl_easy_init
+                0x00000000004118d0                fopen@@GLIBC_2.2
+                0x00000000004118e0                sleep@@GLIBC_2.0
+                0x00000000004118f0                curl_easy_strerror
+                0x0000000000411900                TfxScrInitFont@@sdk_1.0
+                0x0000000000411910                TfxKeyboardOpen@@sdk_1.0
+                0x0000000000411920                calloc@@GLIBC_2.0
+                0x0000000000411930                TfxDelay@@sdk_1.0
+                0x0000000000411940                strncat@@GLIBC_2.0
+                0x0000000000411950                fputc@@GLIBC_2.0
+                0x0000000000411960                fwrite@@GLIBC_2.0
+                0x0000000000411970                mosquitto_message_callback_set@@MOSQ_1.0
+                0x0000000000411980                memcpy@@GLIBC_2.0
+                0x0000000000411990                TfxMenuSelect@@sdk_1.0
+                0x00000000004119a0                mosquitto_new@@MOSQ_1.0
+                0x00000000004119b0                malloc@@GLIBC_2.0
+                0x00000000004119c0                strlen@@GLIBC_2.0
+                0x00000000004119d0                fprintf@@GLIBC_2.0
+                0x00000000004119e0                TfxScrSetBackgroundPic@@sdk_1.0
+                0x00000000004119f0                TfxNetGetContext@@sdk_1.0
+                0x0000000000411a00                TfxInitialize@@sdk_1.0
+                0x0000000000411a10                sprintf@@GLIBC_2.0
+                0x0000000000411a20                TfxScrGetHeight@@sdk_1.0
+                0x0000000000411a30                mosquitto_connect@@MOSQ_1.0
+                0x0000000000411a40                TfxIsWiFiConnected@@sdk_1.0
+                0x0000000000411a50                TfxSetDebugMode@@sdk_1.0
+                0x0000000000411a60                strcmp@@GLIBC_2.0
+                0x0000000000411a70                TfxScrPutPixel@@sdk_1.0
+                0x0000000000411a80                time@@GLIBC_2.0
+                0x0000000000411a90                tolower@@GLIBC_2.0
+                0x0000000000411aa0                TfxEnableDhcp@@sdk_1.0
+                0x0000000000411ab0                fclose@@GLIBC_2.2
+                0x0000000000411ac0                strncpy@@GLIBC_2.0
+                0x0000000000411ad0                TfxWiFiConnect@@sdk_1.0
+                0x0000000000411ae0                TfxScrDispText@@sdk_1.0
+                0x0000000000411af0                strrchr@@GLIBC_2.0
+                0x0000000000411b00                fseek@@GLIBC_2.0
+                0x0000000000411b10                TfxGetWiFiNetListInMeta@@sdk_1.0
+                0x0000000000411b20                vsprintf@@GLIBC_2.0
+                0x0000000000411b30                sin@@GLIBC_2.0
+                0x0000000000411b40                TfxKeyboardEvent@@sdk_1.0
+                0x0000000000411b50                rename@@GLIBC_2.0
+                0x0000000000411b60                curl_easy_cleanup
+                0x0000000000411b70                TfxScrUpdate@@sdk_1.0
+                0x0000000000411b80                __libc_start_main@@GLIBC_2.0
+                0x0000000000411b90                __isoc99_sscanf@@GLIBC_2.7
+                0x0000000000411ba0                vsnprintf@@GLIBC_2.0
+                0x0000000000411bb0                TfxKeyboardClose@@sdk_1.0
+                0x0000000000411bc0                gettimeofday@@GLIBC_2.0
+                0x0000000000411bd0                TfxWiFiGetParam@@sdk_1.0
+                0x0000000000411be0                TfxScrSetLineGapSize@@sdk_1.0
+                0x0000000000411bf0                TfxScrRectangle@@sdk_1.0
+                0x0000000000411c00                TfxScrClearAll@@sdk_1.0
+                0x0000000000411c10                sync@@GLIBC_2.0
+                0x0000000000411c20                mosquitto_lib_cleanup@@MOSQ_1.0
+                0x0000000000411c30                strnlen@@GLIBC_2.0
+                0x0000000000411c40                free@@GLIBC_2.0
+                0x0000000000411c50                mosquitto_lib_init@@MOSQ_1.0
+                0x0000000000411c60                strncmp@@GLIBC_2.0
+                0x0000000000411c70                TfxScrLine@@sdk_1.0
+                0x0000000000411c80                TfxScrSetFontColor@@sdk_1.0
+                0x0000000000411c90                TfxReadPad@@sdk_1.0
+                0x0000000000411ca0                TfxDestroy@@sdk_1.0
+                0x0000000000411cb0                TfxScrInit@@sdk_1.0
+                0x0000000000411cc0                curl_easy_setopt
+                0x0000000000411cd0                printf@@GLIBC_2.0
+                0x0000000000411ce0                mosquitto_destroy@@MOSQ_1.0
+                0x0000000000411cf0                TfxScrSetFontSize@@sdk_1.0
+                0x0000000000411d00                TfxWiFiScan@@sdk_1.0
+                0x0000000000411d10                TfxMsDelay@@sdk_1.0
+                0x0000000000411d20                TfxScrDisplayStrInline@@sdk_1.0
+                0x0000000000411d30                TfxInitKeyboard@@sdk_1.0
+                0x0000000000411d40                TfxScrGetWidth@@sdk_1.0
+                0x0000000000411d50                mosquitto_subscribe@@MOSQ_1.0
+                0x0000000000411d60                cos@@GLIBC_2.0
+                0x0000000000411d70                memset@@GLIBC_2.0
+                0x0000000000411d80                remove@@GLIBC_2.0
+                0x0000000000411d90                mosquitto_disconnect_callback_set@@MOSQ_1.0
+                0x0000000000411da0                snprintf@@GLIBC_2.0
+                0x0000000000411db0                mosquitto_publish@@MOSQ_1.0
+                0x0000000000411dc0                vfprintf@@GLIBC_2.0
+                0x0000000000411dd0                TfxWiFiOpen@@sdk_1.0
+                0x0000000000411de0                mosquitto_disconnect@@MOSQ_1.0
+                0x0000000000411df0                __isoc99_fscanf@@GLIBC_2.7
+                0x0000000000411e00                TfxScrDisplayColorTitle@@sdk_1.0
+                0x0000000000411e10                RGB_TO_COLOR@@sdk_1.0
+                0x0000000000411e20                system@@GLIBC_2.0
+                0x0000000000411e30                strcpy@@GLIBC_2.0
+                0x0000000000411e40                TfxScrDestroy@@sdk_1.0
+                0x0000000000411e50                strtod@@GLIBC_2.0
+                0x0000000000411e60                realloc@@GLIBC_2.0
+                0x0000000000411e70                ftell@@GLIBC_2.0
+
+.iplt
+ *(.iplt)
+                0x0000000000422000                . = DATA_SEGMENT_ALIGN (0x10000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0000000000422000        0x0
+                [!provide]                        PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0000000000422000        0x4
+                0x0000000000422000                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000422000        0x4 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+                0x0000000000422004                PROVIDE (__init_array_end, .)
+
+.fini_array     0x0000000000422004        0x4
+                [!provide]                        PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000422004        0x4 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+                0x0000000000422008                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.got.plt        0x0000000000422008      0x198
+ *(.got.plt)
+ .got.plt       0x0000000000422008      0x198 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+
+.data           0x00000000004221a0      0x290
+                0x00000000004221a0                _fdata = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00000000004221a0       0x10 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+                0x00000000004221a0                __data_start
+                0x00000000004221a0                data_start
+ .data          0x00000000004221b0        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+ .data          0x00000000004221b0        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+ .data          0x00000000004221b0        0x0 obj_err/debug.o
+ .data          0x00000000004221b0        0x0 obj_err/main.o
+ .data          0x00000000004221b0        0x0 obj_err/mqtt.o
+ .data          0x00000000004221b0      0x270 obj_err/vkeyboard.o
+                0x00000000004221b0                stKeyboardAbc
+                0x0000000000422324                stKeyboardNum
+ .data          0x0000000000422420        0x0 obj_err/weather.o
+ .data          0x0000000000422420        0x0 obj_err/wifi.o
+ .data          0x0000000000422420       0x10 obj_err/cJSON.o
+ .data          0x0000000000422430        0x0 obj_err/cJSON_Utils.o
+ .data          0x0000000000422430        0x0 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .data          0x0000000000422430        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtend.o
+ .data          0x0000000000422430        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+
+.rld_map        0x0000000000422430        0x4
+ .rld_map       0x0000000000422430        0x4 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+                0x0000000000422430                __RLD_MAP
+
+.tm_clone_table
+                0x0000000000422434        0x0
+ .tm_clone_table
+                0x0000000000422434        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+ .tm_clone_table
+                0x0000000000422434        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtend.o
+
+.data1
+ *(.data1)
+                0x0000000000422434                . = .
+                0x0000000000422434                . = .
+                0x000000000042a430                _gp = (ALIGN (0x10) + 0x7ff0)
+
+.got            0x0000000000422440       0x18
+ *(.got)
+ .got           0x0000000000422440       0x18 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+                0x0000000000422440                _GLOBAL_OFFSET_TABLE_
+
+.sdata          0x0000000000422458        0x4
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x0000000000422458        0x4 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+                0x0000000000422458                __dso_handle
+
+.lit8
+ *(.lit8)
+
+.lit4
+ *(.lit4)
+                0x000000000042245c                _edata = .
+                [!provide]                        PROVIDE (edata, .)
+                0x000000000042245c                . = .
+                0x000000000042245c                __bss_start = .
+                0x000000000042245c                _fbss = .
+
+.sbss
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ *(.scommon)
+
+.bss            0x0000000000422460      0x890
+ *(.dynbss)
+ .dynbss        0x0000000000422460        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000422460        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+ .bss           0x0000000000422460        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+ .bss           0x0000000000422460       0x10 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+ .bss           0x0000000000422470       0x10 obj_err/debug.o
+ .bss           0x0000000000422480        0x0 obj_err/main.o
+ .bss           0x0000000000422480       0x30 obj_err/mqtt.o
+                0x0000000000422480                mosq
+                0x0000000000422484                Receive_Data_Buffer
+                0x0000000000422498                Receive_Topic_Buffer
+ .bss           0x00000000004224b0       0x20 obj_err/vkeyboard.o
+ .bss           0x00000000004224d0      0x410 obj_err/weather.o
+ .bss           0x00000000004228e0      0x3f0 obj_err/wifi.o
+ .bss           0x0000000000422cd0       0x20 obj_err/cJSON.o
+ .bss           0x0000000000422cf0        0x0 obj_err/cJSON_Utils.o
+ .bss           0x0000000000422cf0        0x0 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .bss           0x0000000000422cf0        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtend.o
+ .bss           0x0000000000422cf0        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+ *(COMMON)
+                0x0000000000422cf0                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x0000000000422cf0                . = ALIGN (0x4)
+                0x0000000000422cf0                . = SEGMENT_START ("ldata-segment", .)
+                0x0000000000422cf0                . = ALIGN (0x4)
+                0x0000000000422cf0                _end = .
+                [!provide]                        PROVIDE (end, .)
+                0x0000000000422cf0                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x42
+ *(.comment)
+ .comment       0x0000000000000000       0x42 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+                                         0x86 (size before relaxing)
+ .comment       0x0000000000000042       0x43 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+ .comment       0x0000000000000042       0x43 obj_err/debug.o
+ .comment       0x0000000000000042       0x43 obj_err/main.o
+ .comment       0x0000000000000042       0x43 obj_err/mqtt.o
+ .comment       0x0000000000000042       0x43 obj_err/vkeyboard.o
+ .comment       0x0000000000000042       0x43 obj_err/weather.o
+ .comment       0x0000000000000042       0x43 obj_err/wifi.o
+ .comment       0x0000000000000042       0x43 obj_err/cJSON.o
+ .comment       0x0000000000000042       0x43 obj_err/cJSON_Utils.o
+ .comment       0x0000000000000042       0x43 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .comment       0x0000000000000042       0x43 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtend.o
+
+.pdr            0x0000000000000000     0x1ea0
+ .pdr           0x0000000000000000        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+ .pdr           0x0000000000000000        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+ .pdr           0x0000000000000000        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+ .pdr           0x0000000000000000      0x140 obj_err/debug.o
+ .pdr           0x0000000000000140      0x420 obj_err/main.o
+ .pdr           0x0000000000000560       0xc0 obj_err/mqtt.o
+ .pdr           0x0000000000000620       0x80 obj_err/vkeyboard.o
+ .pdr           0x00000000000006a0      0x460 obj_err/weather.o
+ .pdr           0x0000000000000b00       0xa0 obj_err/wifi.o
+ .pdr           0x0000000000000ba0      0xe00 obj_err/cJSON.o
+ .pdr           0x00000000000019a0      0x4c0 obj_err/cJSON_Utils.o
+ .pdr           0x0000000000001e60       0x40 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .pdr           0x0000000000001ea0        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtend.o
+ .pdr           0x0000000000001ea0        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0xa8
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x38 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+ .debug_aranges
+                0x0000000000000038       0x28 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+ .debug_aranges
+                0x0000000000000060       0x20 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .debug_aranges
+                0x0000000000000080       0x28 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x368
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0xcc D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+ .debug_info    0x00000000000000cc       0x93 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+ .debug_info    0x000000000000015f      0x176 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .debug_info    0x00000000000002d5       0x93 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+
+.debug_abbrev   0x0000000000000000      0x16e
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x47 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+ .debug_abbrev  0x0000000000000047       0x12 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+ .debug_abbrev  0x0000000000000059      0x103 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .debug_abbrev  0x000000000000015c       0x12 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+
+.debug_line     0x0000000000000000      0x21d
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x7d D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+ .debug_line    0x000000000000007d       0x68 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+ .debug_line    0x00000000000000e5       0xd8 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .debug_line    0x00000000000001bd       0x60 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+
+.debug_frame    0x0000000000000000       0x50
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x50 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+
+.debug_str      0x0000000000000000      0x333
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x166 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+                                        0x2b5 (size before relaxing)
+ .debug_str     0x0000000000000166      0x1cd D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+                                        0x220 (size before relaxing)
+
+.debug_loc      0x0000000000000000       0xce
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0xce D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x40
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x20 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+ .debug_ranges  0x0000000000000020       0x20 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+                0x0000000000000000       0x10
+ *(.gnu.attributes)
+ .gnu.attributes
+                0x0000000000000000       0x10 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+ .gnu.attributes
+                0x0000000000000010       0x10 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crti.o
+ .gnu.attributes
+                0x0000000000000020       0x10 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+ .gnu.attributes
+                0x0000000000000030       0x10 obj_err/debug.o
+ .gnu.attributes
+                0x0000000000000040       0x10 obj_err/main.o
+ .gnu.attributes
+                0x0000000000000050       0x10 obj_err/mqtt.o
+ .gnu.attributes
+                0x0000000000000060       0x10 obj_err/vkeyboard.o
+ .gnu.attributes
+                0x0000000000000070       0x10 obj_err/weather.o
+ .gnu.attributes
+                0x0000000000000080       0x10 obj_err/wifi.o
+ .gnu.attributes
+                0x0000000000000090       0x10 obj_err/cJSON.o
+ .gnu.attributes
+                0x00000000000000a0       0x10 obj_err/cJSON_Utils.o
+ .gnu.attributes
+                0x00000000000000b0       0x10 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .gnu.attributes
+                0x00000000000000c0       0x10 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtend.o
+ .gnu.attributes
+                0x00000000000000d0       0x10 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crtn.o
+
+.gptab.sdata
+ *(.gptab.data)
+ *(.gptab.sdata)
+
+.gptab.sbss
+ *(.gptab.bss)
+ *(.gptab.sbss)
+
+.mdebug.abi32   0x0000000000000000        0x0
+ *(.mdebug.abi32)
+ .mdebug.abi32  0x0000000000000000        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../mips-linux-gnu/libc/usr/lib/crt1.o
+ .mdebug.abi32  0x0000000000000000        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtbegin.o
+ .mdebug.abi32  0x0000000000000000        0x0 obj_err/debug.o
+ .mdebug.abi32  0x0000000000000000        0x0 obj_err/main.o
+ .mdebug.abi32  0x0000000000000000        0x0 obj_err/mqtt.o
+ .mdebug.abi32  0x0000000000000000        0x0 obj_err/vkeyboard.o
+ .mdebug.abi32  0x0000000000000000        0x0 obj_err/weather.o
+ .mdebug.abi32  0x0000000000000000        0x0 obj_err/wifi.o
+ .mdebug.abi32  0x0000000000000000        0x0 obj_err/cJSON.o
+ .mdebug.abi32  0x0000000000000000        0x0 obj_err/cJSON_Utils.o
+ .mdebug.abi32  0x0000000000000000        0x0 D:\iPaylabSDK\tools\cross-compiler\gcc7.2.0\bin\../mips-linux-gnu/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .mdebug.abi32  0x0000000000000000        0x0 D:/iPaylabSDK/tools/cross-compiler/gcc7.2.0/bin/../lib/gcc/mips-linux-gnu/7.2.0/crtend.o
+
+.mdebug.abiN32
+ *(.mdebug.abiN32)
+
+.mdebug.abi64
+ *(.mdebug.abi64)
+
+.mdebug.abiO64
+ *(.mdebug.abiO64)
+
+.mdebug.eabi32
+ *(.mdebug.eabi32)
+
+.mdebug.eabi64
+ *(.mdebug.eabi64)
+
+.gcc_compiled_long32
+ *(.gcc_compiled_long32)
+
+.gcc_compiled_long64
+ *(.gcc_compiled_long64)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(bin/tmpl.bin elf32-tradlittlemips)
